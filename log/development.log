@@ -1,0 +1,269 @@
+Started GET "/" for 127.0.0.1 at 2023-11-10 16:26:21 +0700
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 374)
+Completed 200 OK in 17ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 7873)
+
+
+Started GET "/" for ::1 at 2023-11-10 16:26:37 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 12)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 210)
+
+
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:26:39 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:26:45 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:26:51 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:26:57 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:03 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:09 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:15 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:21 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:27 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:33 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:39 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:45 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:51 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:27:57 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:03 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:09 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:15 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:21 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:27 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:33 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:39 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:45 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:51 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:28:57 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:04 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:11 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:28 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:36 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:44 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:49 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:29:55 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:30:01 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:30:07 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-10 16:30:13 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/" for ::1 at 2023-11-14 14:02:49 +0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 374)
+Completed 200 OK in 6ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 4270)
+
+
+Started GET "/" for ::1 at 2023-11-14 14:02:53 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 12)
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 211)
+
+
+Started GET "/" for ::1 at 2023-11-14 14:03:07 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 12)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 206)
+
+
+Started GET "/" for ::1 at 2023-11-14 14:03:12 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 12)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 210)
+
+
+Started GET "/_next/webpack-hmr" for ::1 at 2023-11-14 14:03:15 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/_next/webpack-hmr"):
+  
+Started GET "/" for ::1 at 2023-11-14 14:03:58 +0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/letrungnghia/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 374)
+Completed 200 OK in 8ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 4269)
+
+
+Started GET "/home/index" for ::1 at 2023-11-14 14:04:10 +0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 95)
+  Rendered layout layouts/application.html.erb (Duration: 1370.7ms | Allocations: 98806)
+Completed 200 OK in 1376ms (Views: 1374.2ms | ActiveRecord: 0.0ms | Allocations: 99725)
+
+
+Started GET "/home/index" for ::1 at 2023-11-14 14:06:58 +0700
+  
+SyntaxError (/Users/letrungnghia/Documents/GitHub/rubyOnRailPj/friends/config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+  root: 'home#index'
+      ^
+):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+Started GET "/" for ::1 at 2023-11-14 14:07:01 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+Started GET "/" for ::1 at 2023-11-14 14:07:17 +0700
+  
+SyntaxError (/Users/letrungnghia/Documents/GitHub/rubyOnRailPj/friends/config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+  root: 'home#index'
+      ^
+):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+Started GET "/home/index" for ::1 at 2023-11-14 14:07:20 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/home/index"):
+  
+Started GET "/home/index" for ::1 at 2023-11-14 14:07:33 +0700
+  
+SyntaxError (/Users/letrungnghia/Documents/GitHub/rubyOnRailPj/friends/config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+  root: 'home#index'
+      ^
+):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+Started GET "/home/index" for ::1 at 2023-11-14 14:07:39 +0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 14.3ms | Allocations: 13954)
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms | Allocations: 14853)
+
+
+Started GET "/" for ::1 at 2023-11-14 14:08:00 +0700
+  
+SyntaxError (/Users/letrungnghia/Documents/GitHub/rubyOnRailPj/friends/config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+  root: 'home#index'
+      ^
+):
+  
+config/routes.rb:3: syntax error, unexpected ':', expecting `end' or dummy end
+Started GET "/" for ::1 at 2023-11-14 14:19:23 +0700
+  
+SyntaxError (/Users/letrungnghia/Documents/GitHub/rubyOnRailPj/friends/config/routes.rb:10: syntax error, unexpected ':', expecting `end' or dummy end
+  root: 'home#index'
+      ^
+):
+  
+config/routes.rb:10: syntax error, unexpected ':', expecting `end' or dummy end
+Started GET "/" for ::1 at 2023-11-14 14:19:40 +0700
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 96)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 13966)
+Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.0ms | Allocations: 14869)
+
+

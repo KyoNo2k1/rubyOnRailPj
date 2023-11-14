@@ -1,0 +1,12 @@
+ {
+  "dependencies": {
+    "bootstrap": "4.5",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  },
+  "name": "pjtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lê Trung Nghĩa <nghia567123@gmail.com>",
+  "license": "MIT"
+}
